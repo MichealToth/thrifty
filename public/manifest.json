@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "thrifty.",
+  "name": "thrifty. expense tracker",
   "icons": [
     {
       "src": "favicon.ico",
